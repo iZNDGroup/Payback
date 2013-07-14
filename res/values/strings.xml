@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Payback</string>
+
+    <color name="backColor">#9EE874</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_transactions">TransactionsActivity</string>
+    <string name="title_activity_network">NetworkActivity</string>
+    <string name="title_activity_user_trans">UserTransActivity</string>
+    <string name="title_activity_add_bud">AddBudActivity</string>
+    <string name="title_activity_add_trans">AddTransActivity</string>
+    <string name="title_activity_minus">MinusActivity</string>
+
+</resources>
